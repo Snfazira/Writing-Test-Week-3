@@ -825,6 +825,7 @@
     - Langkah 2 - Buat function removeFromCart()
 
         ![x](73.png)
+        
         Hasilnya akan seperti ini :
 
         ![x](74.png)
