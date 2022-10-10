@@ -192,9 +192,11 @@
     - Sama seperti tipe data sebelumnya. Object dapat diassign kedalam sebuah variabel.
 
         ![c](36.png)
+        
         Object person
 
         ![c](37.png)
+        
         Object person dengan properti
 
     Sama seperti array, didalam object kita dapat menyimpan properti dengan tipe data apapun.
