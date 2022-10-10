@@ -8,6 +8,7 @@
     Array dapat menyimpan tipe data String, Number, Boolean, dan lainnya.
 
 - Contoh nya : 
+
     ![s](1.png)
 
     ![s](2.png)
